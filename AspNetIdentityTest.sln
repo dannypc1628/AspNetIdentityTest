@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetIdentityTest", "AspNetIdentityTest\AspNetIdentityTest.csproj", "{46624B26-E5A9-4CE7-9EE2-95F31ABD1E96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetIdentityTest", "AspNetIdentityTest\AspNetIdentityTest.csproj", "{7B32F6BC-843E-4B36-B218-5563BED15005}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{46624B26-E5A9-4CE7-9EE2-95F31ABD1E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{46624B26-E5A9-4CE7-9EE2-95F31ABD1E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{46624B26-E5A9-4CE7-9EE2-95F31ABD1E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{46624B26-E5A9-4CE7-9EE2-95F31ABD1E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B32F6BC-843E-4B36-B218-5563BED15005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B32F6BC-843E-4B36-B218-5563BED15005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B32F6BC-843E-4B36-B218-5563BED15005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B32F6BC-843E-4B36-B218-5563BED15005}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FEAEDA4A-6D65-4BF7-ACEB-22C77C76F3F7}
+		SolutionGuid = {4406EA4B-604F-4171-88C2-495A241140B9}
 	EndGlobalSection
 EndGlobal
